@@ -1,7 +1,6 @@
-
 # Ingrident 
 - avacado 
-- lemon
+- lime
 -salt
 # Instructions
 
